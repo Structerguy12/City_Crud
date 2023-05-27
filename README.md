@@ -1,0 +1,1 @@
+This program uses crud. Create, read,update and delete is the meaning of crud. So, you have a list of people and theyre citys. You can change theyre citys, add new people, print the whole city people, remove all of them and etcetra
